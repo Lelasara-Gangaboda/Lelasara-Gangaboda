@@ -45,10 +45,12 @@
     </a>
 </p>
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=Lelasara-Gangaboda&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lelasara-Gangaboda&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelasara-Gangaboda&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lelasara-Gangaboda&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
 
