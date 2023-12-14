@@ -1,3 +1,7 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/Lelasara-Gangaboda/Lelasara-Gangaboda/blob/Lelasara-Gangaboda/gifs/Hi.gif" width="30px"></h2>
 </div>
@@ -36,3 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lelasara-gangaboda&show_icons=true&locale=en" alt="lelasara-gangaboda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lelasara-gangaboda&" alt="lelasara-gangaboda" /></p>
+
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
