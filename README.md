@@ -22,11 +22,6 @@
  </p>
 
 
-
-
-
-
-
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="left">
 <a href="https://twitter.com/lelasara gangaboda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lelasara gangaboda" height="30" width="40" /></a>
@@ -51,7 +46,9 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lelasara-gangaboda&" alt="lelasara-gangaboda" /></p>
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=Lelasara-Gangaboda&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelasara-Gangaboda&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
