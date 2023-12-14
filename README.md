@@ -1,9 +1,14 @@
-<h1 align="center"><b>Hi, I'm Lelasara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/Lelasara-Gangaboda/Lelasara-Gangaboda/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Time+New+Roman&color=336BFF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+SLIIT;Faculty+of+Cyber+Security;" /></a>
-</p>
+<div align="center" width="50">
 
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
 
 
 
