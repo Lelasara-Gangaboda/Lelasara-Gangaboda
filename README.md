@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lelasara gangaboda" target="blank"><img src="https://img.shields.io/twitter/follow/lelasara gangaboda?logo=twitter&style=for-the-badge" alt="lelasara gangaboda" /></a> </p>
----
+
 - 💬 Ask me about **Linux**
 
 - 📫 How to reach me **Lelasara.kavindu123@gmail.com**
