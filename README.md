@@ -4,13 +4,11 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Time+New+Roman&color=336BFF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+SLIIT;Faculty+of+Cyber+Security;" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
 <br>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 <h3 align="left">Connect with me:</h3>
