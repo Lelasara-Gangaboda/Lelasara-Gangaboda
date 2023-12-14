@@ -1,5 +1,5 @@
-<h1 align="center">👨‍ Hello There, I'm Lelasara Gangaboda</h1>
-<h3 align="center">Hi there! I'm a Cyber security engineering undergraduate student with a passion for cyber security</h3>
+<h1 align="center">‍ Hello There, I'm Lelasara Gangaboda</h1>
+<h3 align="center">🙌 Hi there! I'm a Cyber security engineering undergraduate student with a passion for cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
 
