@@ -1,19 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">
-Hi, I'm Lelasara Gangaboda!
-	<a href="https://github.com/Lelasara-Gangaboda" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-<p align="center">
-	<a href="https://github.com/Lelasara-Gangaboda">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/Lelasara-Gangaboda">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
+
 </p>
 <br/>
 <p align="center">
@@ -47,7 +35,11 @@ Hi, I'm Lelasara Gangaboda!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelasara-gangaboda&show_icons=true&locale=en&layout=compact" alt="lelasara-gangaboda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lelasara-gangaboda&show_icons=true&locale=en" alt="lelasara-gangaboda" /></p>
+<p align="center">
+    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lelasara-Gangaboda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lelasara-Gangaboda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lelasara-gangaboda&" alt="lelasara-gangaboda" /></p>
 
