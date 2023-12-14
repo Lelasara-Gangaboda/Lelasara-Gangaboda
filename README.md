@@ -1,10 +1,13 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+I'm+Lelasara+Gangaboda+Student+of+SLIIT+facullty+of+Cyber+Security+Engineering" alt="Typing SVG" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=10AD20&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cyber+Security+Engineering+student+of+SLIIT;" /></a>
 </p>
+
+
+
+<!-- views -->
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Lelasara-Gangaboda&color=brightgreen" alt="watching_count" />
  </p>
