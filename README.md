@@ -4,7 +4,10 @@
 <!--Hacking Pic -->
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
-## Hi, I’m Lelasara Gangaboda <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p align="center">## Hi, I’m Lelasara Gangaboda <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+</p>
+
+  
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0EDF24&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+SLIIT;also+studying+Cyber+Security+Engineering" /></a>
 </p>
