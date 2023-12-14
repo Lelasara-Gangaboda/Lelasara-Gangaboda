@@ -1,5 +1,5 @@
-<h1 align="center">‍🙌 Hello There, I'm Lelasara Gangaboda</h1>
-<h3 align="center"> I'm a Cyber security engineering undergraduate student from Sri Lanka</h3>
+<h1 align="center"><b>Hi, I'm Lelasara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center"> I'm a Cyber security engineering  student from SLIIT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
 
