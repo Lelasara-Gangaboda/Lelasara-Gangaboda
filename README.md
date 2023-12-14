@@ -1,7 +1,7 @@
 <h1 align="center">‍🙌 Hello There, I'm Lelasara Gangaboda</h1>
 <h3 align="center"> I'm a Cyber security engineering undergraduate student from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lelasara gangaboda" target="blank"><img src="https://img.shields.io/twitter/follow/lelasara gangaboda?logo=twitter&style=for-the-badge" alt="lelasara gangaboda" /></a> </p>
 
