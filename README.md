@@ -4,10 +4,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Time+New+Roman&color=336BFF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+SLIIT;Faculty+of+Cyber+Security;" /></a>
 </p>
 
-<br>
-<picture><img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
 
