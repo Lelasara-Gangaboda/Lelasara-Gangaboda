@@ -5,9 +5,12 @@
 </p>
 
 <br>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lelasara-gangaboda&label=Profile%20views&color=0e75b6&style=flat" alt="lelasara-gangaboda" /> </p>
-##<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
