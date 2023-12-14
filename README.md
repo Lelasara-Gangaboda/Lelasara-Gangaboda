@@ -38,7 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelasara-gangaboda&show_icons=true&locale=en&layout=compact" alt="lelasara-gangaboda" /></p>
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
